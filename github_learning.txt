@@ -1,0 +1,2 @@
+How to clone this repo:
+    git clone git@github.com:jackh423/elixir.git
