@@ -1,2 +1,19 @@
 How to clone this repo:
     git clone git@github.com:jackh423/elixir.git
+
+
+Steps to checkout this repo and add a  file, make changes, commit and push changes to repo.
+   455  18:56   git clone git@github.com:jackh423/elixir.git
+   456  18:56   pwd
+   458  18:56   cd elixir/
+   459  18:56   ls
+   460  18:56   git log
+   461  18:57   cat README.md
+   463  19:02   vim github_learning.txt
+   465  19:05   git remote add upstream git@github.com:elixir.git
+   466  19:05   git remote -v
+   468  19:06   git add github_learning.txt
+   470  19:07   git commit -m "This is my first commit to github"
+   472  19:07   git push origin master
+   473  19:07   git status
+
